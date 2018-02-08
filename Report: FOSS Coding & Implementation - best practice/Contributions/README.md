@@ -22,11 +22,23 @@ Do let me know if you would like attribution, and if so, how you (or the origina
     - https://github.com/open-eid
 - France Interministerial Directorate of Digital and State Information Systems (DINSIC)
     -  https://github.com/betagouv
-
+- City of Chicago Open Source projects
+    - https://github.com/Chicago
+- U.S. Dept of Defense
+    - https://github.com/deptofdefense
+- Brazil -  Interlegis - Brazilian Legislative Modernization Program
+    - https://github.com/interlegis
+- Australia Digital Transformation Agency 
+    - https://github.com/AusDTO
+    
 ### Case studies
 Links & info of successful Open Source projects used by Public Administrations
 - https://joinup.ec.europa.eu/news/estonias-government-relies
 - https://e-estonia.com/
+- Exygy, Inc. - a Registered California Benefit Corporation
+    - https://github.com/Exygy
+- VIETNAM OPEN SOURCE DEVELOPMENT JOINT STOCK COMPANY (VINADES.,JSC)
+    - https://github.com/nukeviet/eGovernment
 
 ### Plans
 Links & info on govenmet plans to take on Open Source
