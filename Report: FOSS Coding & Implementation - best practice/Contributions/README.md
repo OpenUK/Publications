@@ -10,7 +10,7 @@ Do let me know if you would like attribution, and if so, how you (or the origina
 
 ## Specific contributions sought
 
-### Examples of Public Administration Open Source code
+### Examples of Public Administration Open Source code in Github
 
 - UK Government Digital Services
     - https://github.com/alphagov
@@ -30,7 +30,10 @@ Do let me know if you would like attribution, and if so, how you (or the origina
     - https://github.com/interlegis
 - Australia Digital Transformation Agency 
     - https://github.com/AusDTO
-    
+- Republic of Bulgaria State e-Government Agency
+    - https://github.com/governmentbg    
+
+
 ### Case studies
 Links & info of successful Open Source projects used by Public Administrations
 - https://joinup.ec.europa.eu/news/estonias-government-relies
@@ -39,6 +42,9 @@ Links & info of successful Open Source projects used by Public Administrations
     - https://github.com/Exygy
 - VIETNAM OPEN SOURCE DEVELOPMENT JOINT STOCK COMPANY (VINADES.,JSC)
     - https://github.com/nukeviet/eGovernment
+- The Albanian municipality of Tirana goes free open source by using Nextcloud
+    - https://joinup.ec.europa.eu/news/municipality-tirana-go
+
 
 ### Plans
 Links & info on govenmet plans to take on Open Source
