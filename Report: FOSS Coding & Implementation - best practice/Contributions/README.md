@@ -20,6 +20,8 @@ Do let me know if you would like attribution, and if so, how you (or the origina
     - https://code.gov/
 - Estonia e-voting
     - https://github.com/open-eid
+- France Interministerial Directorate of Digital and State Information Systems (DINSIC)
+    -  https://github.com/betagouv
 
 ### Case studies
 Links & info of successful Open Source projects used by Public Administrations
