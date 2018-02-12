@@ -32,6 +32,8 @@ Do let me know if you would like attribution, and if so, how you (or the origina
     - https://github.com/AusDTO
 - Republic of Bulgaria State e-Government Agency
     - https://github.com/governmentbg    
+- Belgium : Federal Public Service Policy and Support DG Digital Transformation (formerly: Fedict)
+    - https://github.com/Fedict
 
 
 ### Case studies
