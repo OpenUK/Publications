@@ -37,7 +37,7 @@ This is a list of publicly accessible Git repositories managed directly by publi
     - https://github.com/Fedict
 
 ### NGO
-This list provides links to Git repositories containing projects relating to public administrations and managed by non-governemnt organisations
+This list provides links to Git repositories containing projects relating to public administrations and managed by non-government organisations
 
 - The Citizens Foundation is a global nonprofit based in Iceland offering creative and secure open source digital democracy solutions used in over 20 countries
     - https://github.com/CitizensFoundation
@@ -56,7 +56,7 @@ Links & info of successful Open Source projects used by Public Administrations
     - https://joinup.ec.europa.eu/news/municipality-tirana-go
 
 ### Plans
-Links & info on govenmet plans to take on Open Source
+Links & info on government plans to adopt Open Source
 - https://itsfoss.com/barcelona-open-source/
 - https://govinsider.asia/innovation/exclusive-estonia-wants-to-build-open-source-software-with-other-countries/
 
@@ -65,3 +65,5 @@ Links & info on govenmet plans to take on Open Source
     -  https://wiki.fsfe.org/Activities/EU_Policies_overview_FS (Updated September 2017)
 - FSFE template Open Source policy for use by Public Administrations
     -  https://github.com/DISIC/foss-contrib-policy-template/
+- OpenUK policy review - USA, India, UK (2016)
+	- https://openuk.uk/review-of-global-open-source-policy-across-the-public-sector/
