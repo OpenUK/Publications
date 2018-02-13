@@ -10,7 +10,8 @@ Do let me know if you would like attribution, and if so, how you (or the origina
 
 ## Specific contributions sought
 
-### Examples of Public Administration Open Source code in Github
+### Public Administration Open Source repositories
+This is a list of publicly accessible Git repositories managed directly by public administrations
 
 - UK Government Digital Services
     - https://github.com/alphagov
@@ -35,6 +36,13 @@ Do let me know if you would like attribution, and if so, how you (or the origina
 - Belgium : Federal Public Service Policy and Support DG Digital Transformation (formerly: Fedict)
     - https://github.com/Fedict
 
+### NGO
+This list provides links to Git repositories containing projects relating to public administrations and managed by non-governemnt organisations
+
+- The Citizens Foundation is a global nonprofit based in Iceland offering creative and secure open source digital democracy solutions used in over 20 countries
+    - https://github.com/CitizensFoundation
+- Bulgaria "Open source in the country" (Society.bg foundation) 
+    - https://github.com/obshtestvo
 
 ### Case studies
 Links & info of successful Open Source projects used by Public Administrations
@@ -47,8 +55,13 @@ Links & info of successful Open Source projects used by Public Administrations
 - The Albanian municipality of Tirana goes free open source by using Nextcloud
     - https://joinup.ec.europa.eu/news/municipality-tirana-go
 
-
 ### Plans
 Links & info on govenmet plans to take on Open Source
 - https://itsfoss.com/barcelona-open-source/
 - https://govinsider.asia/innovation/exclusive-estonia-wants-to-build-open-source-software-with-other-countries/
+
+### Policy
+- FSFE extensive review of policies of many nations
+    -  https://wiki.fsfe.org/Activities/EU_Policies_overview_FS (Updated September 2017)
+- FSFE template Open Source policy for use by Public Administrations
+    -  https://github.com/DISIC/foss-contrib-policy-template/
