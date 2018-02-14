@@ -35,6 +35,9 @@ This is a list of publicly accessible Git repositories managed directly by publi
     - https://github.com/governmentbg    
 - Belgium : Federal Public Service Policy and Support DG Digital Transformation (formerly: Fedict)
     - https://github.com/Fedict
+- Spain: Government repository in the Centre for Technology Transfer (CTT)
+	- http://administracionelectronica.gob.es/pae_Home/pae_SolucionesCTT.html
+	- https://github.com/ctt-gob-es
 
 ### NGO
 This list provides links to Git repositories containing projects relating to public administrations and managed by non-government organisations
