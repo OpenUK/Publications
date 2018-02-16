@@ -91,7 +91,9 @@ Links & info of successful Open Source projects used by Public Administrations
 Links & info on government plans to adopt Open Source
 - [City of Barcelona](https://itsfoss.com/barcelona-open-source/)
 - https://govinsider.asia/innovation/exclusive-estonia-wants-to-build-open-source-software-with-other-countries/
-- France: [Circulaire Ayrault](https://joinup.ec.europa.eu/news/april-publishes-english-trans)
+- France:
+  - [Circulaire Ayrault](https://joinup.ec.europa.eu/news/april-publishes-english-trans)
+  - [FossPolicy template](https://github.com/DISIC/foss-contrib-policy-template/blob/master/FOSSPolicyTemplate.md)
 - United Kingdom: [Technology Code of Practice](https://joinup.ec.europa.eu/news/be-open)
 - Estonia: [Information Society Strategy 2013](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
 - Italy: [Codice Amministrazione Digitale art 68](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
