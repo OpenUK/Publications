@@ -59,18 +59,12 @@ This is a list of publicly accessible Git repositories managed by public service
     - https://github.com/oskariorg
     
 #### Municipal public services and projects
-- City of Amsterdam Data Department:
-    - https://amsterdam.github.io/projects/
-- City of Paris - Lutece (its citizen relationship management system)
-    - https://github.com/lutece-platform/lutece-collab-plugin-suggest
-- City of Malaga - CKAN extemsion
-    - https://github.com/damalaga/ckanext-malaga
-- City of Zaragoza - IT department
-    - https://github.com/migasfree/migasfree
-- City of Helsinki
-    - https://city-of-helsinki.github.io
-- City of Madrid: consul (citizen participation portal)
-    - https://github.com/consul/consul
+- City of Amsterdam [Data Department](https://amsterdam.github.io/projects/)
+- City of Paris [Lutece - citizen relationship management system](https://github.com/lutece-platform/lutece-collab-plugin-suggest)
+- City of Malaga [CKAN extension](https://github.com/damalaga/ckanext-malaga)
+- City of Zaragoza [IT department](https://github.com/migasfree/migasfree)
+- [City of Helsinki](https://city-of-helsinki.github.io)
+- City of Madrid [Consul- citizen participation portal](https://github.com/consul/consul)
 
 
 ### NGO
