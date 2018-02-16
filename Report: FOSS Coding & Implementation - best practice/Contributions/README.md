@@ -63,10 +63,13 @@ Links & info of successful Open Source projects used by Public Administrations
 - Exygy, Inc [a Registered California Benefit Corporation](https://github.com/Exygy)
 - Vietnam [open source development joint stock company (VINADES.,JSC)](https://github.com/nukeviet/eGovernment)
 
-### Plans & Policies
+
+## To be developed
 Links & info on government plans to adopt Open Source
 - [City of Barcelona](https://itsfoss.com/barcelona-open-source/)
 - https://govinsider.asia/innovation/exclusive-estonia-wants-to-build-open-source-software-with-other-countries/
+
+### Policies
 - France
   - [Circulaire Ayrault](https//joinup.ec.europa.eu/news/april-publishes-english-trans)
   - [FossPolicy template](https//github.com/DISIC/foss-contrib-policy-template/blob/master/FOSSPolicyTemplate.md)
@@ -75,7 +78,6 @@ Links & info on government plans to adopt Open Source
 - Italy [Codice Amministrazione Digitale art 68](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
 - Spain [Guía de publicación y licenciamiento de activos](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
   - Basque Country [Basque Country Decree](https://joinup.ec.europa.eu/news/spains-basque-countrys-admi)
-
 - European Commission [European Commission's Open Source Software Strategy](https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en)
 - European Union
   - [Tallinn Ministerial Declaration on eGovernment](https://joinup.ec.europa.eu/news/open-reuse)
@@ -83,7 +85,9 @@ Links & info on government plans to adopt Open Source
   - [Promoting sharing and reuse of IT solutions](https://ec.europa.eu/isa2/actions/promoting-sharing-and-reuse-interoperability-solutions_en)
   - [Europen Union PSI Directive](https://joinup.ec.europa.eu/node/149107)
   - [EUPL](https://en.wikipedia.org/wiki/European_Union_Public_Licence)
-- Open Government Partnership [OGP open source statement](https://joinup.ec.europa.eu/community/osor/news/bulgaria-france-uk-us-support-ogp-free-software-policy)
+- Open Government Partnership
+  - [OGP open source statement](https://joinup.ec.europa.eu/community/osor/news/bulgaria-france-uk-us-support-ogp-free-software-policy)
+  - [Open Source Policy Template](https://github.com/DISIC/foss-contrib-policy-template/blob/master/FOSSPolicyTemplate.md)
 - Organisation for Economic Co-operation and Development [OECD's Open Government Toolkit](https://joinup.ec.europa.eu/news/oecd-examines-open-government)
 
 
