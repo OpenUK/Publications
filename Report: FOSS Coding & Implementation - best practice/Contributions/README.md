@@ -15,8 +15,9 @@ This is a list of publicly accessible Git repositories managed by public service
 
 #### Central government public services and projects
 - UK [Government Digital Services](https://github.com/alphagov)
-- Italy [Digital Transformation team (Developers Italia)](https://github.com/italia)
-- Italy [Ministry of Defense (training courses for LibreOffice)](https://github.com/libreitalia/VideocorsoLibreDifesa)
+- Italy 
+   - [Digital Transformation team (Developers Italia)](https://github.com/italia)
+   - [Ministry of Defense (training courses for LibreOffice)](https://github.com/libreitalia/VideocorsoLibreDifesa)
 - US Government [Code.gov](https://code.gov/)
 - Estonia [Open Electronic Identity](https://github.com/open-eid)
 - France [Interministerial Directorate of Digital and State Information Systems (DINSIC)](https://github.com/betagouv)
@@ -30,8 +31,9 @@ This is a list of publicly accessible Git repositories managed by public service
 - Norway [Agency for Public Management and eGovernment (Difi) Direktoratet for forvaltning og ikt](http://difi.github.io/)
 - European Commission [EC Europa](https://github.com/ec-europa/)
 - Israel [ICT authority](https://github.com/CIOIL/DataGovIL/tree/master/GovExt)
-- Netherlands [Ministry of the Interior and Kingdom Relations (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, BZK)](https://github.com/MinBZK)
-- Netherlands [government collaboration portal (Plein Overheid, Pleio) ](https://github.com/Pleio)
+- Netherlands 
+   - [Ministry of the Interior and Kingdom Relations (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, BZK)](https://github.com/MinBZK)
+   - [government collaboration portal (Plein Overheid, Pleio) ](https://github.com/Pleio)
 - Canada [federal government collaboration portal (GCconnex) ](https://github.com/gctools-outilsgc)
 - Finland [National Land Survey of Finland, in collaboration with Canada, Finland, Iceland, Norway, Russia, Sweden, USA and Denmark](https://github.com/oskariorg)
     
