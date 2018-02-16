@@ -84,8 +84,8 @@ This list provides links to Git repositories containing projects relating to pub
 ### Case studies
 Links & info of successful Open Source projects used by Public Administrations
 - European Commission's Open Source Observatory (OSOR)
-   - case studies: https://joinup.ec.europa.eu/page/osor-case-studies
-   - news items: https://joinup.ec.europa.eu/collection/open-source-observatory-osor?f%5B0%5D=collection_type%3Anews
+   - [Case studies](https://joinup.ec.europa.eu/page/osor-case-studies)
+   - [News items](https://joinup.ec.europa.eu/collection/open-source-observatory-osor?f%5B0%5D=collection_type%3Anews)
 
 - https://e-estonia.com/
 - Exygy, Inc. - a Registered California Benefit Corporation
@@ -95,23 +95,24 @@ Links & info of successful Open Source projects used by Public Administrations
 
 ### Plans & Policies
 Links & info on government plans to adopt Open Source
-- https://itsfoss.com/barcelona-open-source/
+- [City of Barcelona](https://itsfoss.com/barcelona-open-source/)
 - https://govinsider.asia/innovation/exclusive-estonia-wants-to-build-open-source-software-with-other-countries/
-- European Commission's (internal) Open Source Policy:
-- France: Circulaire Ayrault https://joinup.ec.europa.eu/news/april-publishes-english-trans
-- United Kingdom:  Technology Code of Practice https://joinup.ec.europa.eu/news/be-open
-- Estonia: Information Society Strategy 2013  https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf
-- Italy: Codice Amministrazione Digitale art 68 https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf
-- Spain: Guía de publicación y licenciamiento de activos https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf
-- Basque Country Decree https://joinup.ec.europa.eu/news/spains-basque-countrys-admi 
-- [Tallinn Ministerial Declaration on eGovernment](https://joinup.ec.europa.eu/news/open-reuse)
-- [European Commission's Open Source Software Strategy](https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en)
-- [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en)
-- [Promoting sharing and reuse of IT solutions](https://ec.europa.eu/isa2/actions/promoting-sharing-and-reuse-interoperability-solutions_en)
-- [OGP open source statement](https://joinup.ec.europa.eu/community/osor/news/bulgaria-france-uk-us-support-ogp-free-software-policy)
-- [OECD's Open Government Toolkit](https://joinup.ec.europa.eu/news/oecd-examines-open-government)
-- [Europen Union PSI Directive](https://joinup.ec.europa.eu/node/149107)
-- [EUPL](https://en.wikipedia.org/wiki/European_Union_Public_Licence)
+- France: [Circulaire Ayrault](https://joinup.ec.europa.eu/news/april-publishes-english-trans)
+- United Kingdom: [Technology Code of Practice](https://joinup.ec.europa.eu/news/be-open)
+- Estonia: [Information Society Strategy 2013](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+- Italy: [Codice Amministrazione Digitale art 68](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+- Spain: [Guía de publicación y licenciamiento de activos](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+  - Basque Country [Basque Country Decree](https://joinup.ec.europa.eu/news/spains-basque-countrys-admi)
+
+- European Commission [European Commission's Open Source Software Strategy](https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en)
+- European Union
+  - [Tallinn Ministerial Declaration on eGovernment](https://joinup.ec.europa.eu/news/open-reuse)
+  - [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en)
+  - [Promoting sharing and reuse of IT solutions](https://ec.europa.eu/isa2/actions/promoting-sharing-and-reuse-interoperability-solutions_en)
+  - [Europen Union PSI Directive](https://joinup.ec.europa.eu/node/149107)
+  - [EUPL](https://en.wikipedia.org/wiki/European_Union_Public_Licence)
+- Open Government Partnership [OGP open source statement](https://joinup.ec.europa.eu/community/osor/news/bulgaria-france-uk-us-support-ogp-free-software-policy)
+- Organisation for Economic Co-operation and Development [OECD's Open Government Toolkit](https://joinup.ec.europa.eu/news/oecd-examines-open-government)
 
 
 ### Open standards
