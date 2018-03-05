@@ -45,6 +45,7 @@ This is a list of publicly accessible Git repositories managed by public service
 - City of Zaragoza [IT department](https://github.com/migasfree/migasfree)
 - [City of Helsinki](https://city-of-helsinki.github.io)
 - City of Madrid [Consul- citizen participation portal](https://github.com/consul/consul)
+- City of Barcelona [Open source projects of the Barcelona City Council](https://ajuntamentdebarcelona.github.io/en/index_en.html)
 
 
 ### NGO
@@ -62,6 +63,9 @@ Links & info of successful Open Source projects used by Public Administrations
 - https://e-estonia.com/
 - Exygy, Inc [a Registered California Benefit Corporation](https://github.com/Exygy)
 - Vietnam [open source development joint stock company (VINADES.,JSC)](https://github.com/nukeviet/eGovernment)
+- City of Barcelona:
+   - [SENTILO - Sensor and Actuator Platform ](https://github.com/sentilo/sentilo)
+   - [DECIDIM - Citizen Participation and Open Government Application](https://github.com/AjuntamentdeBarcelona/decidim-barcelona)
 
 
 ## To be developed
