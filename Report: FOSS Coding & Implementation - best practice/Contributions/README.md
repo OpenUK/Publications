@@ -103,4 +103,4 @@ Links & info on government plans to adopt Open Source
 ### Policy
 - FSFE [extensive review of policies of many nations (Updated September 2017)](https://wiki.fsfe.org/Activities/EU_Policies_overview_FS)
 - FSFE [template Open Source policy for use by Public Administrations](https://github.com/DISIC/foss-contrib-policy-template/)
-- OpenUK [policy review - USA, India, UK (2016)](ps//openuk.uk/review-of-global-open-source-policy-across-the-public-sector/)
+- OpenUK [policy review - USA, India, UK (2016)](https://openuk.uk/review-of-global-open-source-policy-across-the-public-sector/)
