@@ -71,16 +71,16 @@ Links & info of successful Open Source projects used by Public Administrations
 ## To be developed
 Links & info on government plans to adopt Open Source
 - [City of Barcelona](https://itsfoss.com/barcelona-open-source/)
-- https://govinsider.asia/innovation/exclusive-estonia-wants-to-build-open-source-software-with-other-countries/
+- [GovInsider Asia](https://govinsider.asia/innovation/exclusive-estonia-wants-to-build-open-source-software-with-other-countries/)
 
 ### Policies
 - France
-  - [Circulaire Ayrault](https//joinup.ec.europa.eu/news/april-publishes-english-trans)
-  - [FossPolicy template](https//github.com/DISIC/foss-contrib-policy-template/blob/master/FOSSPolicyTemplate.md)
-- United Kingdom [Technology Code of Practice](https//joinup.ec.europa.eu/news/be-open)
-- Estonia [Information Society Strategy 2013](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
-- Italy [Codice Amministrazione Digitale art 68](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
-- Spain [Guía de publicación y licenciamiento de activos](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+  - [Circulaire Ayrault](https://joinup.ec.europa.eu/news/april-publishes-english-trans)
+  - [FossPolicy template](https://github.com/DISIC/foss-contrib-policy-template/blob/master/FOSSPolicyTemplate.md)
+- United Kingdom [Technology Code of Practice](https://joinup.ec.europa.eu/news/be-open)
+- Estonia [Information Society Strategy 2013](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+- Italy [Codice Amministrazione Digitale art 68](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+- Spain [Guía de publicación y licenciamiento de activos](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
   - Basque Country [Basque Country Decree](https://joinup.ec.europa.eu/news/spains-basque-countrys-admi)
 - European Commission [European Commission's Open Source Software Strategy](https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en)
 - European Union
@@ -92,19 +92,19 @@ Links & info on government plans to adopt Open Source
 - Open Government Partnership
   - [OGP open source statement](https://joinup.ec.europa.eu/community/osor/news/bulgaria-france-uk-us-support-ogp-free-software-policy)
   - [Open Source Policy Template](https://github.com/DISIC/foss-contrib-policy-template/blob/master/FOSSPolicyTemplate.md)
-- Organisation for Economic Co-operation and Development [OECD's Open Government Toolkit](https://joinup.ec.europa.eu/news/oecd-examines-open-government)
+- Organisation for Economic Co-operation and Development [OECD Open Government Toolkit](https://joinup.ec.europa.eu/news/oecd-examines-open-government)
 
 
 ### Open standards
 
-- France [Référence Général d’Intéropérabilité (RGI)](https//joinup.ec.europa.eu/news/frances-rgi-v2-recommends-odf)
-- United Kingdom [Technology Code of Practice](https//joinup.ec.europa.eu/news/be-open)
-- Netherlands [Include development and maintenance](https//www.logius.nl/standaarden/)
-- Sweden [Mandatory IT standards](https//joinup.ec.europa.eu/news/sweden-updates-list-mandat)
-- Portugal [National Digital Interoperability Regulation (RNID)](https//joinup.ec.europa.eu/news/technological-freedom)
-- Spain [Guía de publicación y licenciamiento de activos](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+- France [Référence Général d’Intéropérabilité (RGI)](https://joinup.ec.europa.eu/news/frances-rgi-v2-recommends-odf)
+- United Kingdom [Technology Code of Practice](https://joinup.ec.europa.eu/news/be-open)
+- Netherlands [Include development and maintenance](https://www.logius.nl/standaarden/)
+- Sweden [Mandatory IT standards](https://joinup.ec.europa.eu/news/sweden-updates-list-mandat)
+- Portugal [National Digital Interoperability Regulation (RNID)](https://joinup.ec.europa.eu/news/technological-freedom)
+- Spain [Guía de publicación y licenciamiento de activos](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
 
 ### Policy
-- FSFE [extensive review of policies of many nations]( https//wiki.fsfe.org/Activities/EU_Policies_overview_FS (Updated September 2017))
-- FSFE [template Open Source policy for use by Public Administrations]( https//github.com/DISIC/foss-contrib-policy-template/)
-- OpenUK [policy review - USA, India, UK (2016)](ps//openuk.uk/review-of-global-open-source-policy-across-the-public-sector/)
+- FSFE [extensive review of policies of many nations (Updated September 2017)](https://wiki.fsfe.org/Activities/EU_Policies_overview_FS)
+- FSFE [template Open Source policy for use by Public Administrations](https://github.com/DISIC/foss-contrib-policy-template/)
+- OpenUK [policy review - USA, India, UK (2016)](https://openuk.uk/review-of-global-open-source-policy-across-the-public-sector/)
