@@ -1,0 +1,17 @@
+- [[https://joinup.ec.europa.eu/news/open-reuse][Tallinn Ministerial Declaration on eGovernment]]
+- [[https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en][European Commission's Open Source Software Strategy]] 
+- [[https://ec.europa.eu/isa2/eif_en][European Interoperability Framework]]
+- [[https://ec.europa.eu/isa2/actions/promoting-sharing-and-reuse-interoperability-solutions_en][Promoting sharing and reuse of IT solutions]]
+- [[https://joinup.ec.europa.eu/community/osor/news/bulgaria-france-uk-us-support-ogp-free-software-policy][OGP open source statement]]
+- [[https://joinup.ec.europa.eu/news/oecd-examines-open-government][OECD's Open Government Toolkit]]
+- [[https://joinup.ec.europa.eu/node/149107][Europen Union PSI Directive]]
+- [[https://en.wikipedia.org/wiki/European_Union_Public_Licence][EUPL]]
+
+*** Open standards
+
+- France: [[https://joinup.ec.europa.eu/news/frances-rgi-v2-recommends-odf][Référence Général d’Intéropérabilité (RGI)]]
+- United Kingdom: [[https://joinup.ec.europa.eu/news/be-open][Technology Code of Practice]]
+- Netherlands: [[https://www.logius.nl/standaarden/][Include development and maintenance]]
+- Sweden: [[https://joinup.ec.europa.eu/news/sweden-updates-list-mandat][Mandatory IT standards]]
+- Portugal: [[https://joinup.ec.europa.eu/news/technological-freedom][National Digital Interoperability Regulation (RNID)]]
+- Spain [[https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf][Guía de publicación y licenciamiento de activos]]
