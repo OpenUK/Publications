@@ -67,7 +67,7 @@ Links & info of successful Open Source projects used by Public Administrations
 ## To be developed
 Links & info on government plans to adopt Open Source
 - [City of Barcelona](https://itsfoss.com/barcelona-open-source/)
-- https://govinsider.asia/innovation/exclusive-estonia-wants-to-build-open-source-software-with-other-countries/
+- [GovInsider Asia](https://govinsider.asia/innovation/exclusive-estonia-wants-to-build-open-source-software-with-other-countries/)
 
 ### Policies
 - France
@@ -88,7 +88,7 @@ Links & info on government plans to adopt Open Source
 - Open Government Partnership
   - [OGP open source statement](https://joinup.ec.europa.eu/community/osor/news/bulgaria-france-uk-us-support-ogp-free-software-policy)
   - [Open Source Policy Template](https://github.com/DISIC/foss-contrib-policy-template/blob/master/FOSSPolicyTemplate.md)
-- Organisation for Economic Co-operation and Development [OECD's Open Government Toolkit](https://joinup.ec.europa.eu/news/oecd-examines-open-government)
+- Organisation for Economic Co-operation and Development [OECD Open Government Toolkit](https://joinup.ec.europa.eu/news/oecd-examines-open-government)
 
 
 ### Open standards
@@ -101,6 +101,6 @@ Links & info on government plans to adopt Open Source
 - Spain [Guía de publicación y licenciamiento de activos](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
 
 ### Policy
-- FSFE [extensive review of policies of many nations]( https//wiki.fsfe.org/Activities/EU_Policies_overview_FS (Updated September 2017))
-- FSFE [template Open Source policy for use by Public Administrations]( https//github.com/DISIC/foss-contrib-policy-template/)
+- FSFE [extensive review of policies of many nations (Updated September 2017)](https//wiki.fsfe.org/Activities/EU_Policies_overview_FS)
+- FSFE [template Open Source policy for use by Public Administrations](https//github.com/DISIC/foss-contrib-policy-template/)
 - OpenUK [policy review - USA, India, UK (2016)](ps//openuk.uk/review-of-global-open-source-policy-across-the-public-sector/)
