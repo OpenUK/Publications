@@ -93,12 +93,12 @@ Links & info on government plans to adopt Open Source
 
 ### Open standards
 
-- France [Référence Général d’Intéropérabilité (RGI)](https//joinup.ec.europa.eu/news/frances-rgi-v2-recommends-odf)
+- France [R&#233f&#233rence G&#233n&#233ral d’Int&#233rop&#233rabilit&#233 (RGI)](https//joinup.ec.europa.eu/news/frances-rgi-v2-recommends-odf)
 - United Kingdom [Technology Code of Practice](https//joinup.ec.europa.eu/news/be-open)
 - Netherlands [Include development and maintenance](https//www.logius.nl/standaarden/)
 - Sweden [Mandatory IT standards](https//joinup.ec.europa.eu/news/sweden-updates-list-mandat)
 - Portugal [National Digital Interoperability Regulation (RNID)](https//joinup.ec.europa.eu/news/technological-freedom)
-- Spain [Guía de publicación y licenciamiento de activos](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+- Spain [Gu&#237a de publicaci&#43n y licenciamiento de activos](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
 
 ### Policy
 - FSFE [extensive review of policies of many nations (Updated September 2017)](https//wiki.fsfe.org/Activities/EU_Policies_overview_FS)
