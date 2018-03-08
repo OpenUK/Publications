@@ -71,12 +71,12 @@ Links & info on government plans to adopt Open Source
 
 ### Policies
 - France
-  - [Circulaire Ayrault](https//joinup.ec.europa.eu/news/april-publishes-english-trans)
-  - [FossPolicy template](https//github.com/DISIC/foss-contrib-policy-template/blob/master/FOSSPolicyTemplate.md)
-- United Kingdom [Technology Code of Practice](https//joinup.ec.europa.eu/news/be-open)
-- Estonia [Information Society Strategy 2013](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
-- Italy [Codice Amministrazione Digitale art 68](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
-- Spain [Guía de publicación y licenciamiento de activos](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+  - [Circulaire Ayrault](https://joinup.ec.europa.eu/news/april-publishes-english-trans)
+  - [FossPolicy template](https://github.com/DISIC/foss-contrib-policy-template/blob/master/FOSSPolicyTemplate.md)
+- United Kingdom [Technology Code of Practice](https://joinup.ec.europa.eu/news/be-open)
+- Estonia [Information Society Strategy 2013](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+- Italy [Codice Amministrazione Digitale art 68](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+- Spain [Guía de publicación y licenciamiento de activos](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
   - Basque Country [Basque Country Decree](https://joinup.ec.europa.eu/news/spains-basque-countrys-admi)
 - European Commission [European Commission's Open Source Software Strategy](https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en)
 - European Union
@@ -93,14 +93,14 @@ Links & info on government plans to adopt Open Source
 
 ### Open standards
 
-- France [R&#233f&#233rence G&#233n&#233ral d’Int&#233rop&#233rabilit&#233 (RGI)](https//joinup.ec.europa.eu/news/frances-rgi-v2-recommends-odf)
-- United Kingdom [Technology Code of Practice](https//joinup.ec.europa.eu/news/be-open)
-- Netherlands [Include development and maintenance](https//www.logius.nl/standaarden/)
-- Sweden [Mandatory IT standards](https//joinup.ec.europa.eu/news/sweden-updates-list-mandat)
-- Portugal [National Digital Interoperability Regulation (RNID)](https//joinup.ec.europa.eu/news/technological-freedom)
-- Spain [Gu&#237a de publicaci&#43n y licenciamiento de activos](https//joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
+- France [Référence Général d’Intéropérabilité (RGI)](https://joinup.ec.europa.eu/news/frances-rgi-v2-recommends-odf)
+- United Kingdom [Technology Code of Practice](https://joinup.ec.europa.eu/news/be-open)
+- Netherlands [Include development and maintenance](https://www.logius.nl/standaarden/)
+- Sweden [Mandatory IT standards](https://joinup.ec.europa.eu/news/sweden-updates-list-mandat)
+- Portugal [National Digital Interoperability Regulation (RNID)](https://joinup.ec.europa.eu/news/technological-freedom)
+- Spain [Guía de publicación y licenciamiento de activos](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
 
 ### Policy
-- FSFE [extensive review of policies of many nations (Updated September 2017)](https//wiki.fsfe.org/Activities/EU_Policies_overview_FS)
-- FSFE [template Open Source policy for use by Public Administrations](https//github.com/DISIC/foss-contrib-policy-template/)
+- FSFE [extensive review of policies of many nations (Updated September 2017)](https://wiki.fsfe.org/Activities/EU_Policies_overview_FS)
+- FSFE [template Open Source policy for use by Public Administrations](https://github.com/DISIC/foss-contrib-policy-template/)
 - OpenUK [policy review - USA, India, UK (2016)](ps//openuk.uk/review-of-global-open-source-policy-across-the-public-sector/)
