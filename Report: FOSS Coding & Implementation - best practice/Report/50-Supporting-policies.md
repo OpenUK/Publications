@@ -1,6 +1,8 @@
 
 # Supporting policies and studies
 
+: NOTE: Shared on Github
+
 A reader should gain an understanding of the existing policies and documents published by UK & EU Government and the NHS to place in to context the recommendations in the following sections and direction of the implementation manual. It is also of benefit to understand the intent of the Apperta Foundation to enable better health care in the UK by embracing new models of acquisition and implementation of digital technology.
 
 ## UK Healthcare
@@ -113,7 +115,7 @@ The roundtable found that the best technology implementations followed an approa
 In addition, the best technology was not dependent on a particular platform or device. This echoes the recommendations made by Health Education England in Barriers to Access for Technology Enhanced Learning 9 . “Where possible, any newly commissioned products should be developed so that they are device independent, i.e. working responsively across multiple devices, platforms and manufacturers,” it says.
 One nurse who works in mental health highlighted the success of an app that enables therapeutic observations to be carried out on the move and the results fed back into the electronic patient record in real-time. Therapeutic observations in mental health can take place every five minutes, fifteen minutes or every half an hour depending on the client.
 
-## Other UK Public Sector
+## Wider UK Public Sector
 
 From the position of global leader, UK has made less progress in the year prior to this report when it comes to implementation of Open Source practices. A review of global advancement can be found in the [EU & Global] section below. 
 
@@ -140,15 +142,7 @@ We call upon:
 * the Commission , building on the Council Conclusions on mainstreaming digital solutions and technologies in EU development policy, to submit proposals on how to fully integrate digital considerations into the EU’s external development policy support instruments, to ensure interoperability with EU frameworks and standards when third countries make investments to digital infrastructure and services with EU assistance – by the end of 2019;
 * the Commission to consider strengthening the requirements for use of open source solutions and standards when (re)building of ICT systems and solutions takes place with EU funding, including by an appropriate open licence policy – by 2020. 
 
-## OpenUK resource:
-
-June 2016
-
-High level briefing paper on Open Source supported by policy extracts from various departments and links to public sector and NGO supporting organisations in the UK.
-
-https://openuk.uk/wp-content/uploads/2016/07/OpenUK-A4-x-8pp-Re-use-Principles-June-2016-FINAL.pdf
-
-## Gov policy
+### Gov policy
 
 UK Technology code of practice - lots of work has been done, well thought out, lots of effort, good point of reference
 
@@ -199,7 +193,6 @@ App Store will hold open source code and solutions for reuse New apps created fr
 
 Open Source and Open Standards - Ensure technical standards support interoperability to facilitate integration and shared services
 
-
 ### Open Contracting Partnership
 
 Open Contracting Data Standard (2014) - A global non-proprietary standard structured to reflect the complete contracting cycle
@@ -229,8 +222,16 @@ Page 43: Open Source IT Adopting common standards and open architectures for IT 
 
 gov.wales/docs/dhss/publications/180116reviewen.pdf
 
-
 http://www.demsoc.org/participatory-budgeting-in-scotland/
+
+### OpenUK publication
+
+June 2016
+
+High level briefing paper on Open Source supported by policy extracts from various departments and links to public sector and NGO supporting organisations in the UK.
+
+https://openuk.uk/wp-content/uploads/2016/07/OpenUK-A4-x-8pp-Re-use-Principles-June-2016-FINAL.pdf
+
 
 ## EU & Global
 

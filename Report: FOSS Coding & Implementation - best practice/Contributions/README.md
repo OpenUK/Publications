@@ -105,6 +105,35 @@ Links & info on government plans to adopt Open Source
 - Spain [Guía de publicación y licenciamiento de activos](https://joinup.ec.europa.eu/sites/default/files/document/2017-01/open_source_observatory_annual_report_3.pdf)
 
 ### Policy
+
 - FSFE [extensive review of policies of many nations (Updated September 2017)](https://wiki.fsfe.org/Activities/EU_Policies_overview_FS)
 - FSFE [template Open Source policy for use by Public Administrations](https://github.com/DISIC/foss-contrib-policy-template/)
 - OpenUK [policy review - USA, India, UK (2016)](https://openuk.uk/review-of-global-open-source-policy-across-the-public-sector/)
+
+## To be organised
+
+- http://www.opensourceacademy.org.uk/solutions/casestudies/birminham-city-council/file (public sector, 2006, The project was managed and overseen by a project team and board largely composed of staff from three different teams within Birmingham city council: Birmingham Libraries; Business Solutions and IT’s (BSol&IT) central infrastructure team; The Learning and Culture IT team (L&CIT), BSol&IT’s support team for education and libraries@)
+- http://www.opensourceacademy.org.uk/solutions/casestudies/open-source-in-schools/file#5.5 (Public sector, schools, 2006)
+- http://www.opensourceacademy.org.uk/solutions/casestudies/university-of-oslo-hp/file (public sector, Oslo, Norway, UIO, 2005)
+- http://www.opensourceacademy.org.uk/solutions/casestudies/liverpool-john-moores-university-hp/ (HP, Public sector, liverpool, 2005)
+- http://www.opensourceacademy.org.uk/solutions/casestudies/city-of-bergen-suse/file (suse, novell, norway)
+
+- https://joinup.ec.europa.eu/software/page/spago4q-to-improve-the-production-of-oss-in-the-veneto-region-italy (Spago4Q, Italy, 2009)
+- https://joinup.ec.europa.eu/elibrary/case/oss-public-administrations-malta-0 (Public administration, Malta, 2010-2012)
+- https://joinup.ec.europa.eu/elibrary/case/breaking-mould-grosseto-develops-openportalguard-eid-system-0 (egovernment, 2005, open portal guard)
+
+- http://opensource.com/government/14/3/interview-stephen-warren-cio-department-veterans (private sector, USA, 2014) 
+
+
+- [[https://joinup.ec.europa.eu/news/open-reuse][Tallinn Ministerial Declaration on eGovernment]]
+- [[https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en][European Commission's Open Source Software Strategy]] 
+- [[https://ec.europa.eu/isa2/eif_en][European Interoperability Framework]]
+- [[https://ec.europa.eu/isa2/actions/promoting-sharing-and-reuse-interoperability-solutions_en][Promoting sharing and reuse of IT solutions]]
+- [[https://joinup.ec.europa.eu/community/osor/news/bulgaria-france-uk-us-support-ogp-free-software-policy][OGP open source statement]]
+- [[https://joinup.ec.europa.eu/news/oecd-examines-open-government][OECD's Open Government Toolkit]]
+- [[https://joinup.ec.europa.eu/node/149107][Europen Union PSI Directive]]
+- [[https://en.wikipedia.org/wiki/European_Union_Public_Licence][EUPL]]
+
+
+
+
